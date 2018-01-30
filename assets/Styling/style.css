@@ -16,12 +16,14 @@ body{
 }
 
 .header{
-    padding: 40px;
+    /* padding: 40px; */
+    padding-top: 40px;
     font-size: 100px;
 }
 
 h2{
-    padding: 40px;
+    /* padding: 40px; */
+    padding-bottom: 40px;
     font-size: 50px;
     font-weight: bold;
 }
@@ -40,11 +42,6 @@ h5{
     padding: 30px;
     font-size: 50px;
 }
-
-/* #filler{
-    padding: 30px;
-    font-size: 50px;
-} */
 
 img{
     width: 50%;
