@@ -5,6 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
+    /* background: linear-gradient(lavender, purple); */
 }
 
 .wrapper{
@@ -16,13 +17,11 @@ body{
 }
 
 .header{
-    /* padding: 40px; */
     padding-top: 40px;
     font-size: 100px;
 }
 
 h2{
-    /* padding: 40px; */
     padding-bottom: 40px;
     font-size: 50px;
     font-weight: bold;
@@ -38,6 +37,11 @@ h5{
     font-weight: bold;
 }
 
+h6{
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .footer{
     padding: 30px;
     font-size: 50px;
@@ -48,10 +52,11 @@ img{
     border-style: solid;
     border-width: 20px;
     border-color: black;
+    margin: 20px;
 }
 
 #portrait{
-    width: 25%;
+    width: 400px;
 }
 
 a {
